@@ -18,8 +18,6 @@ import {
   Search,
   UploadCloud,
   Image as ImageIcon,
-  CheckCircle2,
-  X,
   Tractor,
   Calendar,
   MapPin,

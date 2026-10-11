@@ -10,7 +10,6 @@ import {
   ChevronDown,
   Check,
   Navigation,
-  Sparkles,
   Wrench,
   ShoppingBag,
   HelpCircle,

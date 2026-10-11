@@ -8,7 +8,6 @@ import {
   X, 
   CheckCircle, 
   User, 
-  MapPin, 
   Package 
 } from 'lucide-react';
 import { useLanguage } from '../LanguageContext';
